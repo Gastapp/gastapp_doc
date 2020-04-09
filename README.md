@@ -1,5 +1,9 @@
 # Gastapp
 
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/TTIP-UNQ-Team6/gastapp_doc/master/icon.png">
+</p>
+
 ## ¿Cual fue nuestra motivacion?
 Los malos habitos financieros son algo muy comun en los tiempos que corren. Gastapp surge como una herramienta para poder llevar la cuenta de nuestras finanzas, pudiendo asi tener un mejor conocimiento y control sobre las mismas.
 
