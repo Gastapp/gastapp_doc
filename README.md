@@ -1,6 +1,6 @@
-# Gastapp
+<p align="center"> 
+  # Gastapp
 
-<p align="center">
   <img width="300" height="300" src="https://raw.githubusercontent.com/TTIP-UNQ-Team6/gastapp_doc/master/icon.png">
 </p>
 
