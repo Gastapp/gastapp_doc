@@ -14,7 +14,7 @@ Gastapp tiene como objetivo principal brindar una plataforma en la cual un usuar
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/88lz0Xhs0U8/0.jpg)](https://www.youtube.com/watch?v=88lz0Xhs0U8 "Gastapp")
 
-
+[Link al video](https://www.youtube.com/watch?v=88lz0Xhs0U8)
 
 ## Wiki
 [Ir a la wiki](https://github.com/TTIP-UNQ-Team6/gastapp_doc/wiki)
